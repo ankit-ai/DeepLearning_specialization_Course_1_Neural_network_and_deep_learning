@@ -1,4 +1,4 @@
-##Deep Learning Specialization on Coursera
+## Deep Learning Specialization on Coursera
 Instructor: Andrew Ng
 
 All of the work in this repository are my submissions for the course. I have put in notes and comments inline to make the code more intutive.
